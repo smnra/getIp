@@ -1,0 +1,1 @@
+web: gunicorn hello:app     #（hello.py 是Flask主程序，app 是Flask 实例的名称）
